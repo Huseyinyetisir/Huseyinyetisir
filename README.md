@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
 <h3 align="center">I am an Oracle developer trying to gain experience with backend technologies and improve their skills and knowledge in real world projects.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyinyetisir" alt="huseyinyetisir" /></a> </p>
-
 - 🔭 I’m currently working on **Oracle ERP Development**
 
 - 🌱 I’m currently learning **Spring Boot and Kafka**
