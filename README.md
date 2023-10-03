@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hüseyin</h1>
-<h3 align="center">I am an Oracle developer trying to gain experience with backend technologies and improve their skills and knowledge in real world projects.</h3>
+<h3 align="center">I am an Software developer trying to gain experience with backend technologies and improve their skills and knowledge in real world projects.</h3>
 
-- 🔭 I’m currently working on **Oracle ERP Development**
+- 🔭 I’m currently working on **Software Development**
 
 - 🌱 I’m currently learning **Spring Boot and Kafka**
 
